@@ -1,0 +1,13 @@
+app:
+  address: http://www.omdbapi.com
+  apikey: faf7e5bb
+  httpport: 3000
+
+db:
+  driver: mysql
+  host: 127.0.0.1
+  port: 3306
+  name: bibit_test
+  username: root
+  password: root
+  locale: Asia/Jakarta

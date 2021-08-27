@@ -1,0 +1,5 @@
+  
+production:
+  driver: mysql
+  open: root:root@tcp(127.0.0.1:3306)/bibit_test
+  locale: Asia/Jakarta
